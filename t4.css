@@ -1,0 +1,14 @@
+.c{
+    height:100px;
+    width:100px;
+    background-color: pink;
+    border-radius:30px;
+    position:fixed;
+    top:0;
+    left:0;
+    opacity:0.6;
+    font-weight:boldest;
+    justify-content: center;
+    align-items:center;
+    display:flex;
+}
